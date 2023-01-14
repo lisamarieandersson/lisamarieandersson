@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on design projects!
 - 👀 I'm on the lookout to find the right place for my first internship in September 2023.
 - 📫 How to reach me: lisamarie.andersson@gmail.com
-- 👩🏻‍🎓 🖼 I also have Bachelor's degree in Art History.
+- 👩🏻‍🎓 I also have Bachelor's degree in Art History 🖼
 - ⚡ Fun fact: Besides coding, I like to fold origami, read fiction books, photograph flowers, scroll trough interior and design related content and have coffee ☕️
