@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ **I'm Lisa Marie 👩🏻 ** ✨ 
+✨ **I'm Lisa Marie** ✨ 
 
 - 👩🏻‍💻 I’m currently learning TypeScript and OOP.
 - 🌱 I’m currently studying to become a Front End Developer at Medieinstitutet in Gotenburg, Sweden. 
