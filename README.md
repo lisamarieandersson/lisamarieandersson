@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi there 👋
 
 ✨ **I'm Lisa Marie** ✨ 
 
