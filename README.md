@@ -6,4 +6,4 @@
 - 👩🏻‍🏫 Currently learning Next.js.
 - 🌱 Studying to become a Front End Developer at Medieinstitutet in Gotenburg, Sweden. 
 - 👩🏻‍🎓 Graduating in May 2024.
-- 📫 How to reach me: lisamarie.andersson@gmail.com and lisamarie.andersson@medieinstitutet.se
+- 📫 How to reach me: lisamarie.andersson@gmail.com 
