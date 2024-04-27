@@ -4,6 +4,5 @@
 
 - 👩🏻‍💻 Working with projects using mostly TypeScript, React and Svelte.
 - 👩🏻‍🏫 Currently learning Next.js, C#, Umbraco CMS and Storybook.
-- 🌱 Studying to become a Front End Developer at Medieinstitutet in Gotenburg, Sweden. 
-- 👩🏻‍🎓 Graduating in May 2024.
+- 👩🏻‍🎓 Soon graduating as a Front End Developer at Medieinstitutet in Gotenburg, Sweden. 
 - 📫 How to reach me: lisamarie.andersson@gmail.com 
